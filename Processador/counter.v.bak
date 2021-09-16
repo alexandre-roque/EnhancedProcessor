@@ -1,0 +1,12 @@
+module counter(clock, inc_pc, data, q);
+
+	input	  clock;
+	input	  inc_pc;
+	input	[15:0]  data;
+	output	[15:0]  q;
+	
+	
+	
+	
+endmodule
+	

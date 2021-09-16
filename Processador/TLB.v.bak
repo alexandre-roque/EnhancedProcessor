@@ -1,0 +1,13 @@
+/*
+Prática II - Modulo da TLB
+Alunos: Alexandre Roque e Vitor Santana.
+Disciplina: Arquitetura e Organização de Computadores II.
+Professora: Daniela Cristina Cascini Kupsch.
+*/
+module TLB(enderecoVirtual);
+	input [15:0] enderecoVirtual;
+	
+
+
+
+endmodule

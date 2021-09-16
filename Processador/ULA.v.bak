@@ -1,0 +1,41 @@
+/*
+Prática I - Modulo do ULA
+Alunos: Alexandre Roque e Vitor Santana.
+Disciplina: Arquitetura e Organização de Computadores II.
+Professora: Daniela Cristina Cascini Kupsch.
+*/
+module ULA(Dado1,Dado2,ULAOp,Result);
+	
+	input [15:0] Dado1,Dado2;
+	input [2:0] ULAOp;
+	
+	output [15:0] Result;
+	
+	reg [15:0] Resultado_ULA;
+	
+   assign Result = Resultado_ULA;
+	 
+   always @(*)
+   begin // inicio
+       case(ULAOp) //begin case
+		 
+			3'b000: // Addi
+			Resultado_ULA = Dado1 + Dado2 ;
+				
+			3'b001: // Add
+			Resultado_ULA = Dado1 + Dado2 ;
+				
+			3'b010: // Subi
+			Resultado_ULA = Dado1 - Dado2 ;
+				
+			3'b011: // BEQ
+			begin // inicio
+				if(Dado2 == 0 | Dado1 == 0)
+					zerotmp = 1;
+				else
+					zerotmp = 0;
+			end// fim
+			
+	  endcase // end case
+    end //fim
+endmodule

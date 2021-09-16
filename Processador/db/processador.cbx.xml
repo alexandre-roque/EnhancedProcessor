@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="processador">
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|MemRam:memRam|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_aci1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|toplevel|processador:proc|counterR7:modReg7|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_f1k.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

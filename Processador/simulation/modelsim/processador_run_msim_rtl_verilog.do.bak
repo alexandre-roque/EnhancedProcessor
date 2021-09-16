@@ -1,0 +1,14 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2 {C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/processador.v}
+vlog -vlog01compat -work work +incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2 {C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/regn.v}
+vlog -vlog01compat -work work +incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2 {C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/upcount.v}
+vlog -vlog01compat -work work +incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2 {C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/dec3to8.v}
+vlog -vlog01compat -work work +incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2 {C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/ULA.v}
+vlog -vlog01compat -work work +incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2 {C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/counter.v}
+

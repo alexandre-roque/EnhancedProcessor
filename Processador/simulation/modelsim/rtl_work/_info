@@ -1,0 +1,251 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alexa\Documents\Repositorios\LAOC-2\Praticas\Pratica2\simulation\modelsim
+vcounterR7
+I[iWm5mQTlfc8EDN[ozVHL3
+VIlZD3XIi>NCND43z4ez`c3
+Z1 dC:\Users\alexa\Documents\Repositorios\LAOC-2\Praticas\Pratica2\simulation\modelsim
+Z2 w1627178084
+8C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/counterR7.v
+FC:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/counterR7.v
+L0 39
+Z3 OV;L;10.1d;51
+r1
+31
+Z4 o-vlog01compat -work work -O0
+Z5 !s92 -vlog01compat -work work +incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2 -O0
+ncounter@r7
+!i10b 1
+!s100 SJ^@P@@93[hoYbgJP?l=W0
+!s85 0
+!s108 1631151682.038000
+!s107 C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/counterR7.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2|C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/counterR7.v|
+!s101 -O0
+vdec3to8
+IMPA5X7^f5z_n5Zh]g]INj0
+V3MQ7SOW6nNK?k^ze_@^7O1
+R1
+R2
+8C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/dec3to8.v
+FC:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/dec3to8.v
+L0 7
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 NCXYP65GmfmF=dm`H;1^e0
+!s85 0
+!s108 1631151681.230000
+!s107 C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/dec3to8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2|C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/dec3to8.v|
+!s101 -O0
+vMemRam
+Ic@6;B9dKN;c=COLkRE?>z2
+V7<lfbLQUg1`A:=nkU<R<80
+R1
+R2
+8C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/MemRam.v
+FC:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/MemRam.v
+L0 39
+R3
+r1
+31
+R4
+R5
+n@mem@ram
+!i10b 1
+!s100 DLjjAE[95>OQ2ZVEYNJ313
+!s85 0
+!s108 1631151681.433000
+!s107 C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/MemRam.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2|C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/MemRam.v|
+!s101 -O0
+vprocessador
+I?_28gAVHiLe7z@j78D5JS1
+V667bc9nCi86dDnmD=KIg^3
+R1
+R2
+8C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/processador.v
+FC:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/processador.v
+L0 7
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 ;8JCQdRIX@WRSZ[K?n`>o2
+!s85 0
+!s108 1631151680.729000
+!s107 C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/processador.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2|C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/processador.v|
+!s101 -O0
+vregn
+Im@?RVmmKfU=cMlTf4kF:?0
+VUc6I3VM5DDQ[zOJ4a2HfK0
+R1
+R2
+8C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/regn.v
+FC:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/regn.v
+L0 7
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 =hFN]T5U]V:2Bl3Tb2m]23
+!s85 0
+!s108 1631151680.936000
+!s107 C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/regn.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2|C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/regn.v|
+!s101 -O0
+vregnIR
+Ij4faR;2g2`lSjHIVfn>_E1
+V3f`DGWG:C?N6T[hN_]B3P0
+R1
+R2
+8C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/regnIR.v
+FC:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/regnIR.v
+L0 7
+R3
+r1
+31
+R4
+R5
+nregn@i@r
+!i10b 1
+!s100 VEWVjVgXfBiBWN>MXZS=71
+!s85 0
+!s108 1631151681.844000
+!s107 C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/regnIR.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2|C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/regnIR.v|
+!s101 -O0
+vregnW
+IHz^bJ`oO_3LiCGBBB8bo50
+VUeQLQ9zUzHDKFCk`I7m9P1
+R1
+R2
+8C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/regnW.v
+FC:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/regnW.v
+L0 7
+R3
+r1
+31
+R4
+R5
+nregn@w
+!i10b 1
+!s100 cWJ6gB?zn1WH5blk2T?ZF0
+!s85 0
+!s108 1631151682.240000
+!s107 C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/regnW.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2|C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/regnW.v|
+!s101 -O0
+vsimula
+!i10b 1
+!s100 EaC=PRY2im?>bDlc?6=`Q3
+IooamoW5jEI[LmGi9R:j<i3
+VdhdZD?PcIDXEnl`i7l@_J2
+R1
+R2
+8C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/simula.v
+FC:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/simula.v
+L0 7
+R3
+r1
+!s85 0
+31
+!s108 1631151682.545000
+!s107 C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/simula.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2|C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/simula.v|
+!s101 -O0
+R4
+R5
+vTLB
+IK2LzgUea9`I2UFM;FEbgD1
+VPTc3zeY:fGYM0[TjN]>X^0
+R1
+R2
+8C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/TLB.v
+FC:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/TLB.v
+L0 7
+R3
+r1
+31
+R4
+R5
+n@t@l@b
+!i10b 1
+!s100 gY;JS<BHL:X>YAM_VYC`e1
+!s85 0
+!s108 1631151682.343000
+!s107 C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/TLB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2|C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/TLB.v|
+!s101 -O0
+vtoplevel
+IV?TZ7MG=R`mX7ID1^o<431
+VaZJklPH4O0B9[WTAQ?INM3
+R1
+R2
+8C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/toplevel.v
+FC:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/toplevel.v
+L0 8
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 C`mO:GAeS??j9HCh4]kP93
+!s85 0
+!s108 1631151681.640000
+!s107 C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/toplevel.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2|C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/toplevel.v|
+!s101 -O0
+vULA
+I8:dKAf5MYke5OZC:79Oc11
+VP3=ZS:oAoD4Tg_ldC5=<T2
+R1
+R2
+8C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/ULA.v
+FC:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/ULA.v
+L0 7
+R3
+r1
+31
+R4
+R5
+n@u@l@a
+!i10b 1
+!s100 Mk_dGBPD^^eE=khXcbM4K1
+!s85 0
+!s108 1631151681.333000
+!s107 C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/ULA.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2|C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/ULA.v|
+!s101 -O0
+vupcount
+I<3XEIdC2Y;1[_YLD8kPi43
+V4h_41_G=[Hl:IHIc6hbj12
+R1
+R2
+8C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/upcount.v
+FC:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/upcount.v
+L0 7
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 NdGA1Sb^S1GJ=E8emH@6I1
+!s85 0
+!s108 1631151681.134000
+!s107 C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/upcount.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2|C:/Users/alexa/Documents/Repositorios/LAOC-2/Praticas/Pratica2/upcount.v|
+!s101 -O0

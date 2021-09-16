@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'processador:proc|upcount:Tstep|Q[0]'
+Slack : -4.039
+TNS   : -60.775
+
+Type  : Slow 1200mV 85C Model Setup 'Clock'
+Slack : -0.675
+TNS   : -13.603
+
+Type  : Slow 1200mV 85C Model Hold 'Clock'
+Slack : -1.100
+TNS   : -17.014
+
+Type  : Slow 1200mV 85C Model Hold 'processador:proc|upcount:Tstep|Q[0]'
+Slack : -0.977
+TNS   : -11.901
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Clock'
+Slack : -3.000
+TNS   : -34.348
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'processador:proc|upcount:Tstep|Q[0]'
+Slack : 0.447
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'processador:proc|upcount:Tstep|Q[0]'
+Slack : -3.497
+TNS   : -52.900
+
+Type  : Slow 1200mV 0C Model Setup 'Clock'
+Slack : -0.549
+TNS   : -10.267
+
+Type  : Slow 1200mV 0C Model Hold 'Clock'
+Slack : -0.985
+TNS   : -15.185
+
+Type  : Slow 1200mV 0C Model Hold 'processador:proc|upcount:Tstep|Q[0]'
+Slack : -0.854
+TNS   : -10.362
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Clock'
+Slack : -3.000
+TNS   : -34.348
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'processador:proc|upcount:Tstep|Q[0]'
+Slack : 0.404
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'processador:proc|upcount:Tstep|Q[0]'
+Slack : -1.709
+TNS   : -25.032
+
+Type  : Fast 1200mV 0C Model Setup 'Clock'
+Slack : 0.131
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Clock'
+Slack : -0.802
+TNS   : -13.842
+
+Type  : Fast 1200mV 0C Model Hold 'processador:proc|upcount:Tstep|Q[0]'
+Slack : -0.701
+TNS   : -8.816
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Clock'
+Slack : -3.000
+TNS   : -32.481
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'processador:proc|upcount:Tstep|Q[0]'
+Slack : 0.420
+TNS   : 0.000
+
+------------------------------------------------------------
